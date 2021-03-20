@@ -1,2 +1,2 @@
 # preguntasfrecuentes
-Preguntas Frecuentes
+Preguntas_Frecuentes
